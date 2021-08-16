@@ -18,6 +18,15 @@ h1 {
   line-height: 1.5;
 }
 
+h3 {
+  font-family: "Montserrat";
+  font-weight: 900;
+}
+
+p {
+  color: #8F8F8F;
+}
+
 /* Navigation Bar */
 
 .navbar {
@@ -51,4 +60,25 @@ h1 {
 .title-image {
   width: 60%;
   transform: rotate(25deg);
+}
+
+/*Feature Section*/
+#features {
+  padding:
+
+  7% 5%;
+}
+
+.feature-box {
+  text-align: center;
+  padding: 5%;
+}
+
+.icon {
+  color: #EF8172;
+  margin-bottom: 1rem;
+}
+
+.icon:hover {
+  color: #FF4C68;
 }
