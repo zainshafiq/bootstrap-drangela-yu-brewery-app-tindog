@@ -130,3 +130,39 @@ p {
 .pricing-column {
   padding: 3% 2%;
 }
+
+@media (max-width: 1028px){
+  #title {
+    text-align: center;
+  }
+
+  .title-image{
+    position: static;
+    transform: rotate(0);
+  }
+}
+
+/* CTA Section */
+#cta {
+  padding: 7% 15%;
+  background-color: #FF4C68;
+  color: #FFF;
+  text-align: center;
+}
+
+.cta-heading {
+  font-family: "Montserrat";
+  font-weight: bold;
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+
+/* Footer Section */
+#footer {
+  text-align: center;
+  padding: 7% 15%;
+}
+
+.copyright-icon {
+  margin: 20px 10px;
+}
