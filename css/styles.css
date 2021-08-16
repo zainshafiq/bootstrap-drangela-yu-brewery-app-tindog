@@ -104,7 +104,7 @@ p {
 }
 
 .carousel-item {
-  padding: 7% 15%;  
+  padding: 7% 15%;
 }
 
 #press {
@@ -116,4 +116,9 @@ p {
 .press-logo {
   width: 15%;
   margin: 20px 20px 50px;
+}
+
+/* Pricing Section */
+#pricing {
+  padding: 100px;
 }
